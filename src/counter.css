@@ -1,0 +1,13 @@
+.container {
+    margin: auto;
+    padding-top: 15%;
+}
+.col {
+    background-color: blue;
+    /* text-align: center; */
+    border: 1px solid black;
+    border-radius: 10%;
+    margin: 1%;
+    height: 150px;
+    font-size: 9em;
+}
